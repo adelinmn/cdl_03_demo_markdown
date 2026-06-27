@@ -8,7 +8,7 @@ Also create a `Makefile` to build the program.
 
 Start from the following skeleton:
 
-```c=
+```c
 #include <stdio.h>
 
 int main(void){
@@ -36,7 +36,7 @@ To test, run:
 As bonus, create similar program in Python.
 Start from the following skeleton:
 
-```python=
+```python
 import sys
 
 def main():
